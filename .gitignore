@@ -1,0 +1,74 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Asset compute cache (AssetImportWorker)
+/[Aa]ssets/AssetStoreTools*
+
+# Metadata for project, but not for source control
+/[Pp]rojectSettings/ProjectVersion.txt
+
+# Never ignore Asset meta files, but ignore some others
+!/[Aa]ssets/**/*.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Assets
+/[Aa]ssets/[Aa]ddressableAssetsData/*/*.bin*
+
+# Temporary files
+/Assets/OVRAssetBundles/
+/Assets/Oculus/VR/Editor/OVRSourceControl.meta
+
+# Meta Quest / Oculus specific
+.ovrconfig
+OVRAssetBundles/
+OculusProjectConfig.asset.meta
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.db
+*.VC.db
+
+# PlasticSCM
+/ignore.conf
