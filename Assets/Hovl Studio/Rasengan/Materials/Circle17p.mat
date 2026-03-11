@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Circle17p
-  m_Shader: {fileID: -6465566751694194690, guid: 69060c21bc91b4f4eba4b81e8ecc7b22,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 69060c21bc91b4f4eba4b81e8ecc7b22, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -67,3 +66,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
